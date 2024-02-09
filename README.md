@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Junior Developer with a keen interest in Full Stack Development. I love exploring new technologies.<br>🌐 Feel free to explore my repositories. <br>🔭 Always eager to learn and collaborate on interesting projects. Open to new opportunities and challenges.<br>💬 Let's connect! Reach out to me on Discord : darvin97 or drop me an email at darvingaba1@gmail.com . <br>
+🚀 Passionate Junior Developer with a keen interest in Full Stack Development. I love exploring new technologies.<br>🌐 Feel free to explore my repositories. <br>🔭 Always eager to learn and collaborate on interesting projects. Open to new opportunities and challenges.<br>💬 Let's connect! Drop me an email at darvingaba1@gmail.com . <br>
 
 
 ## 🌐 Socials:
